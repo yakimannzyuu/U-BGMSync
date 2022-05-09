@@ -30,6 +30,7 @@
 /[Aa]ssets/UdonSharp/
 /[Aa]ssets/SerializedUdonPrograms/
 /[Aa]ssets/Gizmos/
+/[Aa]ssets/Download/
 
 # Visual Studio cache directory
 .vs/
